@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theprogrammingbird
--  I’m interested in Android Apps
--  I’m currently learning Kotlin
+-  I’m currently interested in HTML
+-  I’m currently learning Python
 
 <!---
 theprogrammingbird/theprogrammingbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
