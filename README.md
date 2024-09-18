@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theprogrammingbird
--  I’m currently interested in HTML
--  I’m currently learning Python
+-  I’m currently interested in nothing 
+-  I’m currently learning nothing o_o
 
 <!---
 theprogrammingbird/theprogrammingbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
